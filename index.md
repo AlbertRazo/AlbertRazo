@@ -10,7 +10,7 @@ My GitHub page is http://github.com/AlbertRazo.
 
 * Lab 1
 
-    Lab 1 was only one part, and this is by far the best Lab that I have done for many reasons. The best reason is that this is the first set of code that I have ever done and is the beginning of a new era. This will be the first set of code, and I can look back at it and see where it all started and the progression that I have made.
+    Lab 1 was only one part, and this is by far the best Lab that I have done for many reasons. The best reason is that this is the first set of code that I have ever done and is the beginning of a new era. This will be the first set of code, and I can look back at it and see where it all started and the progression that I have made. This Lab is by far the most important code that I will write to see my first Hello World.
 
 * Lab 7
 
